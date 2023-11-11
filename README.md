@@ -1,30 +1,24 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I decided to recreate the retro game called Pong! It is the one where there are two paddles on each side of the screen and there is a ball bouncing back and forth in the middle. If the ball goes past one paddle, the other paddle gets a point. I mad it so the right side paddle is an ai that progressively gets harder as the rounds go on. The left side is the user. The user can control the paddle with either the arrow key or the "w" key to go up or "s" key to go down.
 
-{Provide a description the game that you wrote. Describe how to play your game.}
+I decided to write this software because I remember playing this game a long time ago. It popped up in my head and I figured I should try to recreate it. It has always been a good classic game for me!
 
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/ieJN44OjRrA)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used VSCode as the editor
 
-{Describe the programming language that you used and any libraries.}
+I used html, css, and javascript to accomplish this task
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Youtube](https://www.youtube.com/watch?v=jrqN0uZwhwk)
+* [W3schools](https://www.w3schools.com/js/default.asp)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* I would like to add a feature where you can choose either two players or go against the ai
+* I would like to add a rally count to keep track of how many hits each player takes
